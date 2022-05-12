@@ -1,0 +1,20 @@
+
+.f{
+
+    background-image:linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(../img/c.jpg);
+    background-position: center;
+    background-size: 100% 100%;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+  
+
+}
+.a{
+
+margin-left: 35%;
+
+}
+.b{
+    margin-left: 35%;
+
+}
